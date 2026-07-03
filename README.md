@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Flutter<br><br> 💬 Ask me about Javascript<br><br>📫 How to reach me mrsunilpaudel@gmail.com
+🌱 I’m currently learning AI/ML and building intelligent applications with Python, FastAPI, YOLO, and Computer Vision.<br><br> 💬 Ask me about Javascript<br><br>📫 How to reach me mrsunilpaudel@gmail.com
 
 
 ## 🌐 Socials:
